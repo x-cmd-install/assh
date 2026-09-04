@@ -7,7 +7,7 @@ about:
   head: 7dc505e
   archived: false
   latestVersion: v2.17.3
-  collectedAt: 2026-09-04T19:56:54Z
+  collectedAt: 2026-09-04T20:45:30Z
 timeline:
   created: 2011-12-25
   lastCommit: 2026-07-24
@@ -85,6 +85,49 @@ total:
   openIssue: 96
   commit: 857
 ---
+path: /home/runner/.x-repo/github.com/moul/assh
+collectedAt: 2026-09-04T20:45:32Z
+loc:
+  Go:
+    code: 4966
+    comments: 1821
+    blanks: 812
+    files: 73
+  Makefile:
+    code: 306
+    comments: 55
+    blanks: 55
+    files: 2
+  Yaml:
+    code: 238
+    comments: 59
+    blanks: 52
+    files: 9
+  Dockerfile:
+    code: 25
+    comments: 4
+    blanks: 2
+    files: 1
+  Sh:
+    code: 23
+    comments: 2
+    blanks: 11
+    files: 2
+  Ruby:
+    code: 22
+    comments: 0
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 453
+    blanks: 231
+    files: 1
+total:
+  code: 5738
+  comments: 2443
+  blanks: 1199
+  files: 89
 ---
 date: "2026-08-24"
 repo:
