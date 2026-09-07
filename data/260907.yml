@@ -5,7 +5,7 @@ about:
   head: 7dc505e
   archived: false
   latestVersion: "v2.17.3"
-  collectedAt: 2026-09-07T04:37:31Z
+  collectedAt: 2026-09-07T19:44:47Z
 timeline:
   created: 2011-12-25
   lastCommit: 2026-07-24
@@ -42,7 +42,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 12
   last90d:
     since: 2026-06-09
     release: 1
@@ -50,7 +50,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 12
   last180d:
     since: 2026-03-11
     release: 2
@@ -58,7 +58,7 @@ recent:
     openPR: 3
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 18
   last360d:
     since: 2025-09-12
     release: 5
@@ -66,7 +66,7 @@ recent:
     openPR: 4
     closedIssue: 2
     openIssue: 2
-    commit: 0
+    commit: 22
   last720d:
     since: 2024-09-17
     release: 5
@@ -84,7 +84,7 @@ total:
   commit: 857
 ---
 path: /home/runner/.x-repo/github.com/moul/assh
-collectedAt: 2026-09-07T04:37:34Z
+collectedAt: 2026-09-07T19:44:49Z
 loc:
   Go:
     code: 4966
@@ -240,7 +240,7 @@ checks:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:37:34+00:00
+  collectedAt: 2026-09-07T19:44:50+00:00
   platform:
     darwin/arm64:
       name:  assh_2.17.3_darwin_arm64.tar.gz
