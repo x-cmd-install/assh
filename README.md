@@ -7,7 +7,7 @@
 - **Latest release**: `v2.17.3` (2026-07-24)
 - **Last commit**: 2026-07-24
 - **License**: MIT
-- **Stars**: 3220 · **Forks**: 163 · **Open issues**: 250 · **Contributors**: 46
+- **Stars**: 3221 · **Forks**: 163 · **Open issues**: 250 · **Contributors**: 46
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/assh> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:39:40Z._
+_Last regenerated: 2026-09-09T18:52:51Z._
