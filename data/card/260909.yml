@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.17.3"
   latestRelease: "v2.17.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:39:33Z
+  collectedAt: 2026-09-09T18:52:36Z
 timeline:
   created: 2011-12-25
   lastCommit: 2026-07-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-24
   lastPrerelease: 
 popularity:
-  star: 3220
+  star: 3221
   watcher: 46
   fork: 163
   release: 37
@@ -88,7 +88,7 @@ total:
   commit: 857
 ---
 path: /home/runner/.x-repo/github.com/moul/assh
-collectedAt: 2026-09-09T04:39:36Z
+collectedAt: 2026-09-09T18:52:39Z
 loc:
   Go:
     code: 4966
