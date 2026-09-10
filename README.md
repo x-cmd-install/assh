@@ -1,24 +1,75 @@
 # assh
 
+[中文版本](./README.cn.md)
+
 :computer: make your ssh client smarter
 
-- **Upstream**: <https://github.com/moul/assh>
-- **Homepage**: <https://manfred.life/assh>
-- **Latest release**: `v2.17.3` (2026-07-24)
-- **Last commit**: 2026-07-24
-- **License**: MIT
-- **Stars**: 3221 · **Forks**: 163 · **Open issues**: 250 · **Contributors**: 46
+![assh](https://repo.x-cmd.io/assh.svg)
 
-## Installation
+## Install
 
 ```sh
 x install assh
 ```
 
-See <https://x-cmd.com/install/assh> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/moul/assh>
+- **Homepage**: <https://manfred.life/assh>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:52:51Z._
+- **Latest**: `v2.17.3` (2026-07-24)
+- **Last commit**: 2026-07-24
+- **Assets in release**: 9
+- **Published**: 2026-07-24T10:43:13Z
+
+## Popularity
+
+- **Stars**: 3,221 · **Forks**: 163 · **Open issues**: 250 · **Contributors**: 46
+
+## Totals (cumulative)
+
+- **Releases**: 37 · **Merged PRs**: 258 · **Open PRs**: 4 · **Closed issues**: 154 · **Open issues**: 96 · **Commits**: 857
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 5 | 1 | 0 | 0 | 12 |
+| 360d | 2025-09-15 | 5 | 10 | 4 | 2 | 2 | 22 |
+
+## Code size
+
+Total: **5,580** lines of code across **87** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 4,966 | 1,821 | 812 | 73 |
+| Makefile | 306 | 55 | 55 | 2 |
+| Yaml | 238 | 59 | 52 | 9 |
+| Dockerfile | 25 | 4 | 2 | 1 |
+| Sh | 23 | 2 | 11 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## Improve this data
+
+Install metadata for assh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `assh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/assh.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:38:10Z._
