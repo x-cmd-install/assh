@@ -1,0 +1,154 @@
+- repo: aur
+  srcname: assh
+  binname: assh
+  visiblename: assh
+  version: "2.3"
+  origversion: 2.3-1
+  status: outdated
+  summary: SSH client which uses SSL proxies to establish anonymous connections
+  maintainers:
+    - dragonlord@aur
+  licenses:
+    - GPL
+- repo: aur
+  srcname: assh-bin
+  binname: assh-bin
+  visiblename: assh-bin
+  version: 2.17.3
+  origversion: 2.17.3-1
+  status: newest
+  summary: make your ssh client smarter
+  maintainers:
+    - exorcism@aur
+    - autoupdatebot@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: assh-git
+  binname: assh-git
+  visiblename: assh-git
+  version: 2.16.0.r0.g869f9789
+  origversion: 2.16.0.r0.g869f9789-1
+  status: rolling
+  summary: make your ssh client smarter https://manfred.life/assh
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: security/assh
+  binname: assh
+  visiblename: security/assh
+  version: 2.15.0
+  origversion: 2.15.0_39
+  status: outdated
+  summary: Smart SSH client wrapper
+  maintainers:
+    - ashish@freebsd.org
+  categories:
+    - security
+- repo: homebrew
+  srcname: assh
+  visiblename: assh
+  version: 2.17.3
+  origversion: null
+  status: newest
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+- repo: homebrew
+  srcname: assh
+  visiblename: assh
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+- repo: macports
+  srcname: sysutils/assh
+  binname: assh
+  visiblename: assh
+  version: 2.17.3
+  origversion: null
+  status: newest
+  summary: Make your ssh client smarter
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: assh
+  visiblename: assh
+  version: 2.16.0
+  origversion: null
+  status: outdated
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+  maintainers:
+    - diego@zzamboni.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: assh
+  visiblename: assh
+  version: 2.16.0
+  origversion: null
+  status: outdated
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: assh
+  visiblename: assh
+  version: 2.16.0
+  origversion: null
+  status: outdated
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: assh
+  visiblename: assh
+  version: 2.16.0
+  origversion: null
+  status: outdated
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: assh
+  visiblename: assh
+  version: 2.17.2
+  origversion: null
+  status: outdated
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: assh
+  visiblename: assh
+  version: 2.17.3
+  origversion: null
+  status: newest
+  summary: Advanced SSH config - Regex, aliases, gateways, includes and dynamic hosts
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: pcr
+  srcname: assh
+  binname: assh
+  visiblename: assh
+  version: "2.3"
+  origversion: 2.3-1
+  status: outdated
+  summary: SSH client which uses SSL proxies to establish anonymous connections
+  licenses:
+    - GPL
