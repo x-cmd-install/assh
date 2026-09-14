@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,221 · **Forks**: 163 · **Open issues**: 250 · **Contributors**: 46
+- **Stars**: 3,220 · **Forks**: 163 · **Open issues**: 250 · **Contributors**: 46
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 1 | 5 | 1 | 0 | 0 | 12 |
-| 90d | 2026-06-15 | 1 | 5 | 1 | 0 | 0 | 12 |
-| last180d | 2026-03-17 | 2 | 8 | 3 | 1 | 1 | 18 |
-| 360d | 2025-09-18 | 5 | 10 | 4 | 2 | 2 | 22 |
-| last720d | 2024-09-23 | 5 | 12 | 4 | 2 | 3 | 40 |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 1 | 5 | 1 | 0 | 0 | 12 |
+| 90d | 2026-06-16 | 1 | 5 | 1 | 0 | 0 | 12 |
+| last180d | 2026-03-18 | 2 | 8 | 3 | 1 | 1 | 18 |
+| 360d | 2025-09-19 | 5 | 10 | 4 | 2 | 2 | 22 |
+| last720d | 2024-09-24 | 5 | 12 | 4 | 2 | 3 | 40 |
 
 ## Release assets
 
@@ -79,15 +79,6 @@ Lowest-scoring checks:
 | [assh_2.17.3_windows_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_windows_amd64.tar.gz) | 8.0 MiB | `native/win/x64` |
 | [assh_2.17.3_windows_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_windows_arm64.tar.gz) | 7.3 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/assh). **4** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.17.3` | ✅ latest |
-| Nix unstable | `2.17.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for assh lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `assh` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +88,4 @@ Install metadata for assh lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:52:12Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:51Z._
