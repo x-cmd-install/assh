@@ -26,13 +26,13 @@ Total: **5,580** lines of code across **87** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **3.5 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-29 | 2 | 7 | 3 | 1 | 2 | 0 |
-| 360d | 2025-10-31 | 5 | 10 | 4 | 1 | 3 | 0 |
-| last720d | 2024-11-05 | 5 | 12 | 4 | 2 | 4 | 40 |
+| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-30 | 2 | 7 | 3 | 1 | 1 | 18 |
+| 360d | 2025-11-01 | 5 | 10 | 4 | 1 | 3 | 22 |
+| last720d | 2024-11-06 | 5 | 12 | 4 | 2 | 4 | 40 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for assh lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:37:45Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:01:30Z._
