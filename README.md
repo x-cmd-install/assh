@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,226 · **Forks**: 162 · **Open issues**: 251 · **Contributors**: 46
+- **Stars**: 3,225 · **Forks**: 162 · **Open issues**: 251 · **Contributors**: 46
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-07-31 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-05-02 | 2 | 7 | 3 | 1 | 1 | 18 |
-| 360d | 2025-11-03 | 5 | 10 | 4 | 1 | 3 | 22 |
-| last720d | 2024-11-08 | 5 | 12 | 4 | 2 | 4 | 40 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-01 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-05-03 | 2 | 7 | 3 | 1 | 1 | 18 |
+| 360d | 2025-11-04 | 5 | 10 | 4 | 1 | 3 | 22 |
+| last720d | 2024-11-09 | 5 | 12 | 4 | 2 | 4 | 40 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for assh lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:39:07Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:42:59Z._
