@@ -40,7 +40,7 @@
   binname: assh
   visiblename: security/assh
   version: 2.15.0
-  origversion: 2.15.0_41
+  origversion: 2.15.0_42
   status: outdated
   summary: Smart SSH client wrapper
   maintainers:
