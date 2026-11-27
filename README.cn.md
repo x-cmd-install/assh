@@ -14,11 +14,11 @@ x install assh
 
 ## 代码洞察
 
-合计: **5,580** 行代码（覆盖前 5 种语言、共 **87** 个文件）。
+合计: **5,616** 行代码（覆盖前 5 种语言、共 **88** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 4,966 | 1,821 | 812 | 73 |
+| Go | 5,002 | 1,823 | 817 | 74 |
 | Makefile | 306 | 55 | 55 | 2 |
 | Yaml | 238 | 59 | 52 | 9 |
 | Dockerfile | 25 | 4 | 2 | 1 |
@@ -42,51 +42,42 @@ x install assh
 
 ## 发布
 
-- **最新版本**: `v2.17.3` (2026-07-24)
-- **最近提交**: 2026-07-24
+- **最新版本**: `v2.17.4` (2026-11-26)
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 3,228 · **Fork**: 160 · **开放 issue**: 252 · **贡献者**: 46
+- **Star**: 3,229 · **Fork**: 160 · **开放 issue**: 252 · **贡献者**: 47
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 258 · **开放 PR**: 14 · **已关闭 issue**: 154 · **开放 issue**: 98 · **提交数**: 857
+- **发布数**: 38 · **已合并 PR**: 259 · **开放 PR**: 13 · **已关闭 issue**: 154 · **开放 issue**: 98 · **提交数**: 859
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 10 | 0 | 1 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 10 | 0 | 2 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 10 | 0 | 2 | 0 |
-| last180d | 2026-05-30 | 1 | 7 | 11 | 0 | 2 | 0 |
-| 360d | 2025-12-01 | 5 | 10 | 14 | 1 | 4 | 0 |
-| last720d | 2024-12-06 | 5 | 12 | 14 | 2 | 5 | 40 |
+| 30d | 2026-10-28 | 1 | 1 | 9 | 0 | 1 | 1 |
+| last60d | 2026-09-28 | 1 | 1 | 9 | 0 | 2 | 1 |
+| 90d | 2026-08-29 | 1 | 1 | 9 | 0 | 2 | 1 |
+| last180d | 2026-05-31 | 2 | 8 | 10 | 0 | 2 | 15 |
+| 360d | 2025-12-02 | 6 | 11 | 13 | 1 | 4 | 23 |
+| last720d | 2024-12-07 | 6 | 13 | 13 | 2 | 5 | 42 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [assh_2.17.3_checksums.txt](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_checksums.txt) | 780 B | `other` |
-| [assh_2.17.3_darwin_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_darwin_amd64.tar.gz) | 8.4 MiB | `native/darwin/x64` |
-| [assh_2.17.3_darwin_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_darwin_arm64.tar.gz) | 7.9 MiB | `native/darwin/arm64` |
-| [assh_2.17.3_linux_386.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_linux_386.tar.gz) | 7.8 MiB | `native/unknown` |
-| [assh_2.17.3_linux_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_linux_amd64.tar.gz) | 8.0 MiB | `native/linux/x64` |
-| [assh_2.17.3_linux_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
-| [assh_2.17.3_windows_386.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_windows_386.tar.gz) | 7.9 MiB | `native/win/x64` |
-| [assh_2.17.3_windows_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_windows_amd64.tar.gz) | 8.0 MiB | `native/win/x64` |
-| [assh_2.17.3_windows_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.3/assh_2.17.3_windows_arm64.tar.gz) | 7.3 MiB | `native/win/arm64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/assh) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.17.3` | ✅ latest |
-| Nix unstable | `2.17.3` | ✅ latest |
+| [assh_2.17.4_checksums.txt](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_checksums.txt) | 780 B | `other` |
+| [assh_2.17.4_darwin_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_darwin_amd64.tar.gz) | 8.4 MiB | `native/darwin/x64` |
+| [assh_2.17.4_darwin_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_darwin_arm64.tar.gz) | 7.9 MiB | `native/darwin/arm64` |
+| [assh_2.17.4_linux_386.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_linux_386.tar.gz) | 7.9 MiB | `native/unknown` |
+| [assh_2.17.4_linux_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_linux_amd64.tar.gz) | 8.0 MiB | `native/linux/x64` |
+| [assh_2.17.4_linux_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
+| [assh_2.17.4_windows_386.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_windows_386.tar.gz) | 7.9 MiB | `native/win/x64` |
+| [assh_2.17.4_windows_amd64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_windows_amd64.tar.gz) | 8.0 MiB | `native/win/x64` |
+| [assh_2.17.4_windows_arm64.tar.gz](https://github.com/moul/assh/releases/download/v2.17.4/assh_2.17.4_windows_arm64.tar.gz) | 7.3 MiB | `native/win/arm64` |
 
 ## 改进这些数据
 
@@ -97,4 +88,4 @@ assh 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:25:22Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:45:29Z._
