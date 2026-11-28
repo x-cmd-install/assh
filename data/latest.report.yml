@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.17.4"
   latestRelease: "v2.17.4"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:45:05Z
+  collectedAt: 2026-11-28T07:42:20Z
 timeline:
   created: 2011-12-25
   lastCommit: 2026-11-26
@@ -32,7 +32,7 @@ language:
 totalBytes: 234249
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 1
     openPR: 9
@@ -40,7 +40,7 @@ recent:
     openIssue: 1
     commit: 1
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 1
     mergedPR: 1
     openPR: 9
@@ -48,7 +48,7 @@ recent:
     openIssue: 2
     commit: 1
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 1
     mergedPR: 1
     openPR: 9
@@ -56,7 +56,7 @@ recent:
     openIssue: 2
     commit: 1
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 2
     mergedPR: 8
     openPR: 10
@@ -64,7 +64,7 @@ recent:
     openIssue: 2
     commit: 15
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 6
     mergedPR: 11
     openPR: 13
@@ -72,7 +72,7 @@ recent:
     openIssue: 4
     commit: 23
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 6
     mergedPR: 13
     openPR: 13
@@ -88,7 +88,7 @@ total:
   commit: 859
 ---
 path: /home/runner/.x-repo/github.com/moul/assh
-collectedAt: 2026-11-27T08:45:07Z
+collectedAt: 2026-11-28T07:42:22Z
 loc:
   Go:
     code: 5002
@@ -247,4 +247,4 @@ checks:
     details:
       - 'Warn: 0 commits out of 16 are checked with a SAST tool'
 ---
-{"id":459665003,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAC6G5s4bZe5r","tag_name":"v2.17.4","target_commitish":"master","name":"v2.17.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T16:33:02Z","updated_at":"2026-11-26T16:35:45Z","published_at":"2026-11-26T16:33:34Z","assets":[{"id":796775781,"node_id":"RA_kwDOAC6G5s4vfdVl","name":"assh_2.17.4_checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":780,"digest":"sha256:a9e4c7788af2c258c9676abd4aee84c799364e254994aeb006fe232a5e38c46d","download_count":2,"created_at":"2026-11-26T16:35:45Z","updated_at":"2026-11-26T16:35:45Z"},{"id":796775624,"node_id":"RA_kwDOAC6G5s4vfdTI","name":"assh_2.17.4_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8854403,"digest":"sha256:5ff4da4ddd5b9d4279f20bb1092ca7397a791b3188db2904a73ba906b16766af","download_count":2,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775626,"node_id":"RA_kwDOAC6G5s4vfdTK","name":"assh_2.17.4_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8331514,"digest":"sha256:f49c0eaceaf3aaf2f1a0e8e91e2424ccf3cc57d49819b4416a2673d9a25e148e","download_count":3,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775628,"node_id":"RA_kwDOAC6G5s4vfdTM","name":"assh_2.17.4_linux_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8237262,"digest":"sha256:b27ce59d3c6c0461f43569ad547d0fb259aeb1018c2c8c00605d67025f146dcb","download_count":4,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775737,"node_id":"RA_kwDOAC6G5s4vfdU5","name":"assh_2.17.4_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8376198,"digest":"sha256:1c98bebe05251724693d6ae7ec911f62e16c955cc09453b14c6c29601b1a372b","download_count":16,"created_at":"2026-11-26T16:35:44Z","updated_at":"2026-11-26T16:35:45Z"},{"id":796775623,"node_id":"RA_kwDOAC6G5s4vfdTH","name":"assh_2.17.4_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7634742,"digest":"sha256:926effa94b2de72e168390ba2db8626b44c9176ed15a6af21b8bdb11fe643763","download_count":6,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775701,"node_id":"RA_kwDOAC6G5s4vfdUV","name":"assh_2.17.4_windows_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8333961,"digest":"sha256:ef25dddd9690ba4db64f5df82b2f85dfe45d0076581b60165651838f9ce26c31","download_count":1,"created_at":"2026-11-26T16:35:43Z","updated_at":"2026-11-26T16:35:44Z"},{"id":796775721,"node_id":"RA_kwDOAC6G5s4vfdUp","name":"assh_2.17.4_windows_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8400109,"digest":"sha256:d0b4e3eeed0ebc0285da39b6d65b41110cff89c5957b946309026298288a5300","download_count":3,"created_at":"2026-11-26T16:35:44Z","updated_at":"2026-11-26T16:35:44Z"},{"id":796775708,"node_id":"RA_kwDOAC6G5s4vfdUc","name":"assh_2.17.4_windows_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7641424,"digest":"sha256:abd5be34c95dc356633f3efde329d5d829dfac6a5f057d8328ec7491618699e4","download_count":2,"created_at":"2026-11-26T16:35:43Z","updated_at":"2026-11-26T16:35:44Z"}],"body":"## [2.17.4](https://github.com/moul/assh/compare/v2.17.3...v2.17.4) (2026-11-26)\n\n\n### Bug Fixes\n\n* forward SSH wrapper arguments intact ([e7175cc](https://github.com/moul/assh/commit/e7175ccd4d082fd60ac038d8c1a20e8d633f7a56))\n\n\n\n"}
+{"id":459665003,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAC6G5s4bZe5r","tag_name":"v2.17.4","target_commitish":"master","name":"v2.17.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T16:33:02Z","updated_at":"2026-11-26T16:35:45Z","published_at":"2026-11-26T16:33:34Z","assets":[{"id":796775781,"node_id":"RA_kwDOAC6G5s4vfdVl","name":"assh_2.17.4_checksums.txt","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"text/plain; charset=utf-8","state":"uploaded","size":780,"digest":"sha256:a9e4c7788af2c258c9676abd4aee84c799364e254994aeb006fe232a5e38c46d","download_count":4,"created_at":"2026-11-26T16:35:45Z","updated_at":"2026-11-26T16:35:45Z"},{"id":796775624,"node_id":"RA_kwDOAC6G5s4vfdTI","name":"assh_2.17.4_darwin_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8854403,"digest":"sha256:5ff4da4ddd5b9d4279f20bb1092ca7397a791b3188db2904a73ba906b16766af","download_count":3,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775626,"node_id":"RA_kwDOAC6G5s4vfdTK","name":"assh_2.17.4_darwin_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8331514,"digest":"sha256:f49c0eaceaf3aaf2f1a0e8e91e2424ccf3cc57d49819b4416a2673d9a25e148e","download_count":4,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775628,"node_id":"RA_kwDOAC6G5s4vfdTM","name":"assh_2.17.4_linux_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8237262,"digest":"sha256:b27ce59d3c6c0461f43569ad547d0fb259aeb1018c2c8c00605d67025f146dcb","download_count":4,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775737,"node_id":"RA_kwDOAC6G5s4vfdU5","name":"assh_2.17.4_linux_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8376198,"digest":"sha256:1c98bebe05251724693d6ae7ec911f62e16c955cc09453b14c6c29601b1a372b","download_count":41,"created_at":"2026-11-26T16:35:44Z","updated_at":"2026-11-26T16:35:45Z"},{"id":796775623,"node_id":"RA_kwDOAC6G5s4vfdTH","name":"assh_2.17.4_linux_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7634742,"digest":"sha256:926effa94b2de72e168390ba2db8626b44c9176ed15a6af21b8bdb11fe643763","download_count":7,"created_at":"2026-11-26T16:35:42Z","updated_at":"2026-11-26T16:35:43Z"},{"id":796775701,"node_id":"RA_kwDOAC6G5s4vfdUV","name":"assh_2.17.4_windows_386.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8333961,"digest":"sha256:ef25dddd9690ba4db64f5df82b2f85dfe45d0076581b60165651838f9ce26c31","download_count":1,"created_at":"2026-11-26T16:35:43Z","updated_at":"2026-11-26T16:35:44Z"},{"id":796775721,"node_id":"RA_kwDOAC6G5s4vfdUp","name":"assh_2.17.4_windows_amd64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":8400109,"digest":"sha256:d0b4e3eeed0ebc0285da39b6d65b41110cff89c5957b946309026298288a5300","download_count":7,"created_at":"2026-11-26T16:35:44Z","updated_at":"2026-11-26T16:35:44Z"},{"id":796775708,"node_id":"RA_kwDOAC6G5s4vfdUc","name":"assh_2.17.4_windows_arm64.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":7641424,"digest":"sha256:abd5be34c95dc356633f3efde329d5d829dfac6a5f057d8328ec7491618699e4","download_count":3,"created_at":"2026-11-26T16:35:43Z","updated_at":"2026-11-26T16:35:44Z"}],"body":"## [2.17.4](https://github.com/moul/assh/compare/v2.17.3...v2.17.4) (2026-11-26)\n\n\n### Bug Fixes\n\n* forward SSH wrapper arguments intact ([e7175cc](https://github.com/moul/assh/commit/e7175ccd4d082fd60ac038d8c1a20e8d633f7a56))\n\n\n\n"}
